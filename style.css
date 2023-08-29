@@ -1,0 +1,27 @@
+*{ margin: 0;
+    padding: 0px;
+}
+.main{
+    height: 100vh;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    background-image: url(/images/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    align-items: center;
+
+}
+.main div{
+    border: solid transparent;
+    background-color: white;
+    height: 47vh;
+    width: 23vw;
+}
+img{
+    height: 38vh;
+    width: 49.8vh;
+}
+p{
+    text-align: center;
+}
